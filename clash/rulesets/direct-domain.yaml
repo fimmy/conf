@@ -7,8 +7,12 @@ payload:
   - "+.infini-cloud.net"
   - "+.linux.do"
   - "+.83398339.xyz"
+  # 公益api
   - "+.ddns-ip.net"
   - "+.veloera.org"
   - "+.tbai.xin"
   - "+.unlimit.chat"
   - "+.ovinc.cn"
+  - "api.zhongruanapi.dpdns.org"
+  - "owu.houu.de"
+  - "api.deeplx.org"
