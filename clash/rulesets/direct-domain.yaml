@@ -7,6 +7,7 @@ payload:
   - "+.infini-cloud.net"
   - "+.linux.do"
   - "+.83398339.xyz"
+  - "+.hkanime.com"
   # 公益api
   - "+.ddns-ip.net"
   - "+.veloera.org"
@@ -19,3 +20,4 @@ payload:
   - "api.voct.dev"
   - "v2.voct.top"
   - "+.ymvid.com"
+  - "+.qzz.io"
